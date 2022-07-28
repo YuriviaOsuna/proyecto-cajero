@@ -1,0 +1,9 @@
+#principal {
+    width: 20vw;
+    height: 60vh;
+    margin: 8rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    text-align: center;
+    margin-left: 40vw;
+}
